@@ -1,6 +1,6 @@
 <?php
 
-namespace SkyWars\scoreboard;
+namespace SkyWars101\scoreboard;
 
 
 use pocketmine\entity\Entity;
