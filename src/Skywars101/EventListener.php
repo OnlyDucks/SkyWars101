@@ -1,6 +1,6 @@
 <?php
 
-namespace SkyWars;
+namespace SkyWars101;
 
 use pocketmine\event\block\BlockBreakEvent;
 use pocketmine\event\block\BlockPlaceEvent;
