@@ -1,0 +1,17 @@
+name: SkyWars101
+
+author: MangoInSpace
+
+api: 4.0.8
+
+version: 1.0
+
+main: SkyWars101\SkyWars101
+
+
+
+commands:
+
+   skywars:
+
+     description: SkyWars Command
