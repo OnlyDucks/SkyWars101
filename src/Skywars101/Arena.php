@@ -1,6 +1,6 @@
 <?php
 
-namespace SkyWars;
+namespace SkyWars101;
 
 
 use pocketmine\entity\effect\Effect;
